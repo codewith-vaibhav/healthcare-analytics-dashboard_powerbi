@@ -6,7 +6,7 @@ An interactive two-page Power BI dashboard built on the Exon Healthcare dataset.
 
 | Overview | Clinical Insights |
 
-| ![Overview](Screenshots/overview_dashboard.png) | ![Clinical Insights](/Screenshots/clinical_dashboard.png)
+![Overview](Screenshots/overview_dashboard.png) ![Clinical Insights](/Screenshots/clinical_dashboard.png)
 
 ## Objectives
 - Track visit volume, completion and cancellation across the period
